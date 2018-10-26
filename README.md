@@ -7,3 +7,8 @@ Variable | Default | Mandatory
 ------------ | ------------ | ------------
 Password | none | yes
 T-Shirt Size | M | yes
+
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
